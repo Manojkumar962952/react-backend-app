@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /backend/react-backend-app
+    destination: /root/backend/react-backend-app
 
 hooks:
   BeforeInstall:
