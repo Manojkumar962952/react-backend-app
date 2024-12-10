@@ -2,7 +2,7 @@
 set -e
 
 # Navigate to the application directory
-cd /backend/react-backend-app
+cd /root/backend/react-backend-app
 npm install
 pm2 delete all
 npm run serve
